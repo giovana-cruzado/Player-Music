@@ -1,0 +1,52 @@
+{
+    "NomeDaPlaylist": "Adrenaline",
+    "DataDeCriacao": "03/10/1995",
+    "Artista": "Deftones",
+    "Genero": "Nu Metal",
+    "Musicas": [
+        {
+            "Titulo": "Bored",
+            "Duracao": "04:06"
+        },
+        {
+            "Titulo": "Minus Blindfold",
+            "Duracao": "04:04"
+        },
+        {
+            "Titulo": "One Weak",
+            "Duracao": "04:29"
+        },
+        {
+            "Titulo": "Nosebleed",
+            "Duracao": "04:26"
+        },
+        {
+            "Titulo": "Lifter",
+            "Duracao": "04:43"
+        },
+        {
+            "Titulo": "Root",
+            "Duracao": "03:41"
+        },
+        {
+            "Titulo": "7 Words",
+            "Duracao": "03:43"
+        },
+        {
+            "Titulo": "Birthmark",
+            "Duracao": "04:18"
+        },
+        {
+            "Titulo": "Engine No. 9",
+            "Duracao": "03:25"
+        },
+        {
+            "Titulo": "Fireal",
+            "Duracao": "06:18"
+        },
+        {
+            "Titulo": "Fist",
+            "Duracao": "03:35"
+        }
+    ]
+}
